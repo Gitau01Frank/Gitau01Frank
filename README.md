@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Gitau01Frank
-- 👀 I’m interested in Cloud and IOT
-- 🌱 I’m currently learning Embedded sustems
-- 💞️ I’m looking to collaborate on ...
-- I’m currently learning software engineering at ALX-Africa
+- 👀 I’m currently learning Django REST Framework
 - 📫 How to reach me Email: franciswainainag@gmail.com
 
 <!---
