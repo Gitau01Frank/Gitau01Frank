@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Gitau01Frank
-- 👀 I’m currently learning Django REST Framework
+- 👋 Hi, I’m Francis Gitau
 - 📫 How to reach me Email: franciswainainag@gmail.com
 
 <!---
